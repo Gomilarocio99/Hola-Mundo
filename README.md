@@ -1,7 +1,12 @@
 # Hola-Mundo
 
 Mi primer repositorio en Github
+Mi name is Rocío, i love 🍨, 💃, 🌃
 
-i love 🍨, 🍕, 🐶
+I´m studing programming 💻📚
 
-i love ⭐, 📖, 🌔
+mi última línea en mi repositorio
+
+nueva actividad
+
+finalizando con Github
